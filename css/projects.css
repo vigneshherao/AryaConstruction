@@ -267,7 +267,7 @@ ul.top-links.social li {
 .bottomleft h3 {
     text-transform: capitalize;
     font-size: 26px;
-    color: #000;
+    color: rgb(255, 255, 255);
     line-height: 40px;
 }
 .bottomleft p {
@@ -287,7 +287,7 @@ ul.top-links.social li {
 h3.heading {
     font-size: 35px;
     text-transform: uppercase;
-    color: #000;
+    color: rgb(255, 255, 255);
     font-weight: 400;
     margin-bottom: 1em;
 	position:relative;
@@ -634,7 +634,7 @@ i.fa.fa-bolt, i.fa.fa-comment, i.fa.fa-globe,i.fa.fa-lightbulb-o,i.fa.fa-thumbs-
 	word-spacing: -0.15em;
 }
 .grid figure h4 span {
-       color: #ff6b61;
+       color: #ededed;
 }
 .grid figure h4,
 .grid figure p {
@@ -726,7 +726,7 @@ h4.tittle {
 	    font-size:1.5em;
     font-weight: bold;
     margin-bottom: 20px;
-    color: #202020;
+    color: #ffffff;
 	text-transform:uppercase;
 }
 /*--//featured-section--*
@@ -1103,11 +1103,11 @@ h4.text {
     text-decoration: none;
 }
 .w3-agile-post-img1 a {
-    background: url(../images/small.jpg) no-repeat 0px 0px;
+    background: url(../images/b1.jpg) no-repeat 0px 0px;
     background-size: cover;
 }
 .w3-agile-post-img2 a {
-    background: url(../images/daniel-mccullough-HtBlQdxfG9k-unsplash.jpg) no-repeat 0px 0px;
+    background: url(../images/6.jpg) no-repeat 0px 0px;
     background-size: cover;
 }
 .w3-agile-post-img21 a {
@@ -1145,7 +1145,7 @@ h4.text {
     margin: 1.5em 0 0.5em 0;
 }
 .w3-agile-post-info h4 a {
-    color: #000;
+    color: rgb(220, 219, 219);
     font-size: .9em;
     font-weight: 600;
     text-transform: uppercase;
@@ -1160,7 +1160,7 @@ h4.text {
 	outline:none;
 }
 .w3-agile-post-info p {
-    color: #545454;
+    color: #dedede;
     font-size: 1em;
     margin: 1em 0;
     line-height: 1.9em;
@@ -1311,7 +1311,7 @@ div#blog {
 		font-size: 19px;
 	}
 	.second-effect:hover .mask {
-		border: 25px solid #000000;
+		border: 25px solid #ff6b61;
 	}
 	.test-review p {
 		font-size: 15px;
@@ -1421,7 +1421,7 @@ div#blog {
 		margin: 7em 0em;
 	}
 	.second-effect:hover .mask {
-		border: 15px solid #000000;
+		border: 15px solid #ff6b61;
 	}
 	.agileits_agile_about_mail input[type="text"], .agileits_agile_about_mail input[type="email"], .agileits_agile_about_mail textarea {
 		font-size: 14px;
@@ -1446,7 +1446,7 @@ div#blog {
 		border-radius: 0px;
 	}
 	.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
-		background-color: #000000;
+		background-color: #ff6961;
 	}
 	ul.top-links.social {
 		position: static;
@@ -1460,7 +1460,7 @@ div#blog {
 	div#bs-example-navbar-collapse-1 {
 		position: absolute;
 		width: 100%;
-		background: #000000;
+		background: #3169ff;
 		z-index: 999;
 		padding: 1em 0 2em;
 	}
