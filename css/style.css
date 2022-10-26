@@ -1107,7 +1107,9 @@ h4.text {
     background-size: cover;
 }
 .w3-agile-post-img2 a {
-    background: url(../images/daniel-mccullough-HtBlQdxfG9k-unsplash.jpg) no-repeat 0px 0px;
+    background: url(../images/logo.jpeg) no-repeat 0px 0px;
+	background-position:10px;
+	border:  2px solid black;
     background-size: cover;
 }
 .w3-agile-post-img21 a {
